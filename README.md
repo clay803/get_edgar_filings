@@ -1,2 +1,2 @@
-# stock_snapshot
-A quick snapshot of any stock.
+# Get EDGAR filings of public companies and easily export multi-year financials to excel for mdoeling.
+
